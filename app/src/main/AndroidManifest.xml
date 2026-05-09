@@ -5,7 +5,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="Cloud App"
+        android:icon="@drawable/app_icon"
+        android:roundIcon="@drawable/app_icon"
+        android:label="My Super App"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
         <activity
