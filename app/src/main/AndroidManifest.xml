@@ -5,8 +5,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/IMG_20260416_171305.jpg" 
-        android:roundIcon="@drawable/IMG_20260416_171305.jpg"
+        android:icon="@drawable/my_logo.jpg" 
+        android:roundIcon="@drawable/my_logo.jpg"
         android:label="Drum Pad Studio"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
